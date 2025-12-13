@@ -1,8 +1,7 @@
 models
 results
 sample
-vidoes/video.mp4
-vidoes/video0.mp4
+vidoes
 tmp.ipynb
 main.ipynb
 .env
