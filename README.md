@@ -1,5 +1,7 @@
 # Physical Exercise Detection — Squat Counter
 
+![Squat Counter Demo](./squats_cnt.gif)
+
 Краткое описание
 - Этот проект реализует пайплайн детекции ключевых точек человека и подсчёта приседаний на видео. Используются модели на базе YOLO (Ultralytics) с keypoint-выходом; данные подготавливались через Roboflow.
 
